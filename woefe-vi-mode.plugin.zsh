@@ -1,0 +1,1 @@
+vi-mode.plugin.zsh
